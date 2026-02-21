@@ -33,9 +33,6 @@ alessandro = {
 
 [![Databricks Champion](https://img.shields.io/badge/Databricks-Champion-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/alessandro654350/wallet)
 [![Data Engineer Associate](https://img.shields.io/badge/Data%20Engineer-Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/alessandro654350/wallet)
-[![Data Engineer Professional](https://img.shields.io/badge/Data%20Engineer-Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/alessandro654350/wallet)
-[![Machine Learning Associate](https://img.shields.io/badge/Machine%20Learning-Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/alessandro654350/wallet)
-
 </div>
 
 -----
